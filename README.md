@@ -4,7 +4,7 @@
 Acabei perdendo muitas atividades feita em sala de aula.
 
 
-```powershell
+```JavaScript
 npm expo start -c --tunnel
 ```
 
