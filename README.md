@@ -4,7 +4,3 @@
 Acabei perdendo muitas atividades feita em sala de aula.
 
 
-```cmd
-npm expo start -c --tunnel
-```
-
