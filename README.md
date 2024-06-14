@@ -5,7 +5,7 @@ Acabei perdendo muitas atividades feita em sala de aula.
 
 
 
-
-```js
+JAVASCRIPT
+```
 import {sakdgsajkdb} from "sajdsagdsghad"
 ```
