@@ -3,9 +3,3 @@
 
 Acabei perdendo muitas atividades feita em sala de aula.
 
-
-
-
-```cli
-import {sakdgsajkdb} from "sajdsagdsghad"
-```
