@@ -5,7 +5,7 @@ Acabei perdendo muitas atividades feita em sala de aula.
 
 
 
-JAVASCRIPT
-```
+
+```cli
 import {sakdgsajkdb} from "sajdsagdsghad"
 ```
